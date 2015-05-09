@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+ArchanaCollections is an exclusive online store showcasing a range of unique trendy and traditional salwar kameez and sarees
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A virtual/online botique,A blend of trend and tradition.. ArchanaCollections is an exclusive online store showcasing a range of unique trendy and traditional salwar kameez and sarees
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[archana_collections@yahoo.com](mailto:archana_collections@yahoo.com)
